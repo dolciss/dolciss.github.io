@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![icon]({{ site.baseurl }}/bluesky_sand.png)
+![icon]({{ site.baseurl }}/images/pds.png)
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
